@@ -1,0 +1,13 @@
+{
+  "key": "kintsugi",
+  "name": "Kintsugi Finance",
+  "chainId": 56,
+  "decimals": 18,
+  "symbol": "TSU",
+  "defaultView": "all",
+  "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+  "token": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

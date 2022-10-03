@@ -12,7 +12,7 @@
               <span
                 :class="space && 'hide-sm'"
                 class="mr-1"
-                v-text="'vote.beefy'"
+                v-text="'vote.kintsugi'"
               />
             </router-link>
             <router-link
